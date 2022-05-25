@@ -1,6 +1,6 @@
 # Hello there 👋
 
-My name is Alexis Ponce and I am a Software Engineer. I am currently working on personal projects while I search for employment.
+My name is Alexis Ponce and I am a Software Engineer. I am currently working on personal projects while searching for employment.
 
 **💡Projects:**
 * SuperLive - A live streaming app for iOS and watchOS (UIKit/SwiftUi, MapKit, HealthKit, HaishinKit)
