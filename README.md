@@ -1,7 +1,7 @@
 # Hello there 👋
 
 My name is Alexis Ponce and I am a Mobile Developer, Currently employed by National Information Solutions Cooperative(NISC)
-** Applied Technologies: **
+**🤓Applied Technologies:**
 * Swift
 * CoreData
 * Objc
