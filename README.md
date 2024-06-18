@@ -1,6 +1,7 @@
 # Hello there 👋
 
 My name is Alexis Ponce and I am a Mobile Developer, Currently employed by National Information Solutions Cooperative(NISC)
+
 **🤓Applied Technologies:**
 * Swift
 * CoreData
@@ -9,6 +10,7 @@ My name is Alexis Ponce and I am a Mobile Developer, Currently employed by Natio
 * XIB Files
 * Firebase
 * Apple Submissions
+  
 **💡Projects:**
 * SuperLive - A live streaming app for iOS and watchOS (UIKit/SwiftUi, MapKit, HealthKit, HaishinKit)
 * Restaruant Tracker - A restaurant tracking app for iOS(SwiftUI, MangDB, MVVM)
